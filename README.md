@@ -4,9 +4,10 @@ This project as written to be the exact mimimum necessary to get OptaPlanner up 
 
 ### Tight Coupling Makes Learning OptaPlanner Challenging To Dense Developers ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* OptaPlanner is a unique project with many unusual paradigms
+* The excellent example projects include so many moving parts it's hard to figure out the basic pieces of OptaPlanner
+* [Learn OptaPlanner](https://bitbucket.org/tutorials/markdowndemo)
+* [Learn Markdown](http://www.optaplanner.org/)
 
 ### How do I get set up? ###
 
