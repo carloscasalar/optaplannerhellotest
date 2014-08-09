@@ -4,8 +4,6 @@ package org.btrg.optaplannerhellotest.solver;
     dialect "java"
 
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScoreHolder;
-
-import org.btrg.optaplannerhellotest.domain.HelloSolution;
 import org.btrg.optaplannerhellotest.domain.HelloEntity;
 
 global HardSoftScoreHolder scoreHolder;
