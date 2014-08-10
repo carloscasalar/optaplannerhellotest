@@ -16,6 +16,7 @@ I found the examples that come with OptaPlanner to be brilliant, helpful, and ne
 ### What is this project? ###
 
 * The exact minimum amount of code necessary to demonstrate how OptaPlanner code works
+* Only 270 lines of code, even including Eclipse .project and .classpath and pom.xml
 * Written in Java
 * Uses a drools file for the OptaPlanner rules
 * Has no persistence, UI, or related infrastructure to confuse you
