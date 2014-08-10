@@ -2,9 +2,13 @@
 
 This project as written to be the exact mimimum necessary to get OptaPlanner up and running.
 
-Let's face it. Some of us are not as quick witted as others. We have to do a "See Dick Run" level with basic semantics to just see how some technology works. The slightest extra details throw us off and confuse us. Maybe only a few developers have this ailment, but the group includes the author of this project.
+### Tight Coupling Makes Learning OptaPlanner Challenging, At Least To Slightly Dense Developers Like Me ###
 
-### Tight Coupling Makes Learning OptaPlanner Challenging To Dense Developers ###
+Sometimes when a new technology comes along, it can be such a head scratcher, that a "See Dick Run" level of code is the easiest way to learn it. Something with just the basic semantics to just see how some technology works. The slightest extra details throw us off and confuse us, such as for example, extra UI, persistence, misc infrastructure.
+
+The examples that come with OptaPlanner are brilliant, helpful, and necessary to understand what the possibilities of this technology can and does address. The code is excellent and helpful. But it is also so tightly coupled with the persistence and UI layers that it's really hard to figure out where OptaPlanner starts and the UI and persistence layers stop.
+
+### OptaPlanner ###
 
 * OptaPlanner is a unique project with many unusual paradigms
 * The excellent example projects include so many moving parts it's hard to figure out the basic pieces of OptaPlanner
