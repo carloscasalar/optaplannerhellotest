@@ -9,7 +9,6 @@ Let's face it. Some of us are not as quick witted as others. We have to do a "Se
 * OptaPlanner is a unique project with many unusual paradigms
 * The excellent example projects include so many moving parts it's hard to figure out the basic pieces of OptaPlanner
 * [Learn OptaPlanner](https://bitbucket.org/tutorials/markdowndemo)
-* [Learn Markdown](http://www.optaplanner.org/)
 
 ### What is this project? ###
 
