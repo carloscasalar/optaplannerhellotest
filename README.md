@@ -2,6 +2,8 @@
 
 This project as written to be the exact mimimum necessary to get OptaPlanner up and running.
 
+Let's face it. Some of us are not as quick witted as others. We have to do a "See Dick Run" level with basic semantics to just see how some technology works. The slightest extra details throw us off and confuse us. Maybe only a few developers have this ailment, but the group includes the author of this project.
+
 ### Tight Coupling Makes Learning OptaPlanner Challenging To Dense Developers ###
 
 * OptaPlanner is a unique project with many unusual paradigms
