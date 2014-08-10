@@ -1,4 +1,4 @@
-# Optaplanner Hello 5 #
+# Optaplanner Hello 5 Times #
 
 This project as written to be the exact mimimum necessary to get OptaPlanner up and running.
 
