@@ -33,7 +33,7 @@ I found the examples that come with OptaPlanner to be brilliant, helpful, and ne
 
 * Sets the single PlanningVariable to 5
 * Gives you a place to experiment with the drools file
-* Gives you a place to start your own project without a UI or database
+* Gives you a place to start your own project without someone else's UI or database
 
 ### Requirements ###
 
