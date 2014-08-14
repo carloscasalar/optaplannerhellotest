@@ -23,11 +23,12 @@ I found the examples that come with OptaPlanner to be brilliant, helpful, and ne
 * Does not even have tests - one main() method
 * Excercises a single PlanningVariable, in a single PlanningEntity
 
-### How To Use This Project ###
+### Watch What Happens! ###
 
 * Download code
 * Run Maven
 * Run HelloApp.main()
+* Change up the rules, even PlanningVariables and PlanningEntities - watch what happens!
 
 ### What does this planner do? ###
 
