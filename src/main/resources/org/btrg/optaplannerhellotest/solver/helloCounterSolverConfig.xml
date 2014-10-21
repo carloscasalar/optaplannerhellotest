@@ -6,10 +6,11 @@
 		<scoreDefinitionType>HARD_SOFT</scoreDefinitionType>
 		<scoreDrl>org/btrg/optaplannerhellotest/solver/helloCounterScoreRules.drl</scoreDrl>
 	</scoreDirectorFactory>
-	<termination>
-		<secondsSpentLimit>1</secondsSpentLimit>
-	</termination>
 	<localSearch>
+		<termination>
+			<secondsSpentLimit>1</secondsSpentLimit>
+			<!-- <bestScoreLimit>0hard/0soft</bestScoreLimit> -->
+		</termination>
 		<acceptor>
 			<entityTabuSize>7</entityTabuSize>
 		</acceptor>
