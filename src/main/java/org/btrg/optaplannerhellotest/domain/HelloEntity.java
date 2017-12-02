@@ -6,23 +6,23 @@ import org.optaplanner.core.api.domain.variable.PlanningVariable;
 
 @PlanningEntity
 public class HelloEntity {
-	private int count;
+    private int count;
 
-	private HelloEntity() {
-	}
+    private HelloEntity() {
+    }
 
-	public HelloEntity(int i) {
-		this.count = i;
-	}
+    public HelloEntity(int i) {
+        this.count = i;
+    }
 
-	@PlanningVariable(valueRangeProviderRefs = { "helloCountRange" })
-	public Integer getCount() {
-		return count;
-	}
+    @PlanningVariable(valueRangeProviderRefs = {"helloCountRange"})
+    public Integer getCount() {
+        return count;
+    }
 
-	public void setCount(Integer count) {
-		System.out.print(HelloApp.getSpacerFeed() + count);
-		this.count = count;
-	}
+    public void setCount(Integer count) {
+        System.out.print(HelloApp.getSpacerFeed() + count);
+        this.count = count;
+    }
 
 }
